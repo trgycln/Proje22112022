@@ -8,5 +8,5 @@ html ve CSS
 
 <h1>Ekran Görünümü</h1>
 
-![](ekran.gif)
+![](ekran1.gif)
 
